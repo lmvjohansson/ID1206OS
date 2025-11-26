@@ -1,0 +1,15 @@
+# CLion build directories
+cmake-build-debug/
+cmake-build-release/
+cmake-build-*
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+
+# IDE files
+.idea/
+
+# General build output
+build/
+out/
